@@ -5,7 +5,7 @@
 ##### * 선지희 : JiheeSeon
 ##### * 최혜민 : hxxmxx
 ##### * 윤혜원 : nnwed
-#### 2. When : 주 2회(7월 29일~, 그냥 거의 8월 임)
+#### 2. When : 2019 August ~ (Twice a week)
 #### 3. Details
 #####   방학기간(7월 29일~8월) : 자료구조랑 알고리즘 기본 베이스(java편, 지수는 c편)
 #####     >교재 : https://book.naver.com/bookdb/book_detail.nhn?bid=13560672
