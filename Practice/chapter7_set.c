@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "IntSet.h"
-
 // s->은 s 집합(struct) 안에 있는 내용물을 확인하겠다는 의미임.
 
 
