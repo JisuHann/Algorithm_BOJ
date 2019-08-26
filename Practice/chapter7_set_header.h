@@ -7,6 +7,7 @@ typedef struct{
   int *set;
 } IntSet;
 
+
 int Initialize(IntSet *s, int max);
 int IsMember(const IntSet *s, int n);
 void Add(IntSet *s, int n)
