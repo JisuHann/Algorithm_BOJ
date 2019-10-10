@@ -1,6 +1,6 @@
 //BaekJoon Problem: https://www.acmicpc.net/problem/4948
 
-#include <iostream>]
+#include <iostream>
 using namespace std;
  
 int main(void) {
