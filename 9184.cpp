@@ -34,7 +34,3 @@ int main(void)
         }
         return 0;
 }
-
-
-
-출처: https://jaimemin.tistory.com/619 [꾸준함]
